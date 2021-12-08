@@ -1,10 +1,6 @@
 
 select *
-from [CovidProject].[dbo].[CovidData]
-
-
---creating the database
-create database CovidProject
+from CovidProject.dbo.CovidData
 
 
 --queries used for the tableau project
