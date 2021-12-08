@@ -35,4 +35,5 @@ group by location, population, date
 order by percent_population_infected desc
 
 
---viz
+--see viz here: https://public.tableau.com/app/profile/kimani4678/viz/CovidProject1infectionanddeathnumbers/Dashboard1
+
